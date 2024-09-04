@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1725483185.62467 0
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1725487537.83614 0
   "/usr/share/texmf-dist/bibtex/bst/base/apalike.bst" 1716849630 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   "main.aux" 0 -1 0 "pdflatex"
   "references.bib" 0 -1 0 ""
@@ -7,8 +7,8 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725483185.23932 "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" "main.pdf" "main" 1725483185.62479 0
-  "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" 1725483184.67901 3992 963a72df10d273a55b1bf9c252f52785 ""
+["pdflatex"] 1725487537.40177 "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" "main.pdf" "main" 1725487537.83634 0
+  "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" 1725487536.77277 5108 aa98df9ad11147dab894ae7569baba2f ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1716849630 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1716849630 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -82,10 +82,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1721708801.69241 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1721708730 7112993 300a4eedd78ec8eddb1d5d082e4b8a62 ""
-  "main.aux" 1725483185.51899 3337 e325e07517173157efc174e8ad5be8f1 "pdflatex"
+  "main.aux" 1725487537.69278 3622 d69acb0531c32d8653b5dbb916bad2c9 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1725483185.51899 3047 c3ae4581020ef48e09b5afb78d451d53 "pdflatex"
-  "main.tex" 1725483184.67901 3992 963a72df10d273a55b1bf9c252f52785 ""
+  "main.out" 1725487537.69278 3380 576862995284a30b6ef702de86e8c9dc "pdflatex"
+  "main.tex" 1725487536.77277 5108 aa98df9ad11147dab894ae7569baba2f ""
   (generated)
   "main.aux"
   "main.log"
