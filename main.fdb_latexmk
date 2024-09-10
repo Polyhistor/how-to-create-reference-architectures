@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1725940236.63635 0
+["bibtex main"] 1725940318.74285 "main.aux" "main.bbl" "main" 1725940319.1664 0
+  "./references.bib" 1725940300.89052 5168 059039e2d7dc657ee2d90e40985f35eb ""
   "/usr/share/texmf-dist/bibtex/bst/base/apalike.bst" 1716849630 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "main.aux" 0 -1 0 "pdflatex"
-  "references.bib" 0 -1 0 ""
+  "main.aux" 1725940319.05408 5196 4c3042fb35cfac50ee7c53f8027e750a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725940236.23347 "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" "main.pdf" "main" 1725940236.63647 0
-  "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" 1725940235.65308 4442 c0c708c38876fd82b3bfbd3f32ea8f70 ""
+["pdflatex"] 1725940318.78632 "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" "main.pdf" "main" 1725940319.16652 0
+  "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" 1725940317.70739 4442 c0c708c38876fd82b3bfbd3f32ea8f70 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1716849630 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1716849630 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -23,11 +23,13 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1716849630 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1716849630 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1716849630 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1716849630 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1716849630 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1716849630 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1716849630 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1716849630 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1716849630 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1716849630 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1716849630 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1716849630 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1716849630 40635 c40361e206be584d448876bba8a64a3b ""
@@ -82,10 +84,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1721708801.69241 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1721708730 7112993 300a4eedd78ec8eddb1d5d082e4b8a62 ""
-  "main.aux" 1725940236.51309 4063 0f126f6ace4de8832f7ee5f19e27c1a5 "pdflatex"
-  "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1725940236.51309 2966 41a80e460fa5d596d23e2eb7b8260887 "pdflatex"
-  "main.tex" 1725940235.65308 4442 c0c708c38876fd82b3bfbd3f32ea8f70 ""
+  "main.aux" 1725940319.05408 5196 4c3042fb35cfac50ee7c53f8027e750a "pdflatex"
+  "main.bbl" 1725940318.78074 4457 f022445ae627d027764889847eb260ba "bibtex main"
+  "main.out" 1725940319.05408 2966 41a80e460fa5d596d23e2eb7b8260887 "pdflatex"
+  "main.tex" 1725940317.70739 4442 c0c708c38876fd82b3bfbd3f32ea8f70 ""
   (generated)
   "main.aux"
   "main.log"

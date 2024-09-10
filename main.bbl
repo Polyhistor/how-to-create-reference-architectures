@@ -1,0 +1,95 @@
+\begin{thebibliography}{}
+
+\bibitem[Angelov et~al., 2012]{Angelov2012}
+Angelov, S., Grefen, P., and Greefhorst, D. (2012).
+\newblock A framework for analysis and design of software reference architectures.
+\newblock {\em Information and Software Technology}, 54(4):417--431.
+
+\bibitem[Beecham et~al., 2005]{Beecham2005}
+Beecham, S., Hall, T., and Rainer, A. (2005).
+\newblock Using an expert panel to validate a requirements process improvement model.
+\newblock {\em Journal of Systems and Software}, 76(3):251--275.
+
+\bibitem[Bogner et~al., 2009]{Bogner2009}
+Bogner, A., Littig, B., and Menz, W. (2009).
+\newblock {\em Interviewing experts}.
+\newblock Springer.
+
+\bibitem[Chen et~al., 2013]{Chen2013}
+Chen, L., Ali~Babar, M., and Nuseibeh, B. (2013).
+\newblock Characterizing architecturally significant requirements.
+\newblock {\em IEEE software}, 30(2):38--45.
+
+\bibitem[Dubois and Gadde, 2014]{Dubois2014}
+Dubois, A. and Gadde, L.-E. (2014).
+\newblock Abductive reasoning in logistics research.
+\newblock {\em International Journal of Physical Distribution \& Logistics Management}.
+
+\bibitem[Eixelsberger et~al., 1998]{Eixelsberger1998}
+Eixelsberger, W., Ogris, M., Gall, H., and Bellay, B. (1998).
+\newblock Software architecture reconstruction: Practice needs and current approaches.
+\newblock {\em IEEE Transactions on Software Engineering}, 24(9):797--812.
+
+\bibitem[Galster and Avgeriou, 2011]{Galster2011}
+Galster, M. and Avgeriou, P. (2011).
+\newblock Empirically-grounded reference architectures: a proposal.
+\newblock In {\em Proceedings of the joint ACM SIGSOFT conference--QoSA and ACM SIGSOFT symposium--ISARCS on Quality of software architectures--QoSA and architecting critical systems--ISARCS}, pages 153--158.
+
+\bibitem[Galster et~al., 2014]{Galster2014}
+Galster, M., Weyns, D., Tofan, D., Michalik, B., and Avgeriou, P. (2014).
+\newblock Variability in software systems—a systematic literature review.
+\newblock {\em IEEE Transactions on Software Engineering}, 40(3):282--306.
+
+\bibitem[Garousi et~al., 2019]{Garousi2019}
+Garousi, V., Felderer, M., and M{\"a}ntyl{\"a}, M.~V. (2019).
+\newblock Guidelines for including grey literature and conducting multivocal literature reviews in software engineering.
+\newblock {\em Information and Software Technology}, 106:101--121.
+
+\bibitem[Gregor and Jones, 2013]{Gregor2013}
+Gregor, S. and Jones, D. (2013).
+\newblock The anatomy of a design theory.
+\newblock {\em Journal of the Association for Information Systems}, 8(5):312--335.
+
+\bibitem[Hevner et~al., 2004]{Hevner2004}
+Hevner, A.~R., March, S.~T., Park, J., and Ram, S. (2004).
+\newblock Design science in information systems research.
+\newblock {\em MIS quarterly}, pages 75--105.
+
+\bibitem[{International Organization for Standardization}, 2011]{ISO42010}
+{International Organization for Standardization} (2011).
+\newblock Iso/iec/ieee 42010: 2011-systems and software engineering--architecture description.
+
+\bibitem[{International Organization for Standardization}, 2018]{ISO29148}
+{International Organization for Standardization} (2018).
+\newblock Iso/iec/ieee 29148: 2018 systems and software engineering—life cycle processes—requirements engineering.
+
+\bibitem[Kitchenham and Charters, 2007]{Kitchenham2007}
+Kitchenham, B. and Charters, S. (2007).
+\newblock Guidelines for performing systematic literature reviews in software engineering.
+
+\bibitem[Kruchten, 1995]{Kruchten1995}
+Kruchten, P.~B. (1995).
+\newblock The 4+ 1 view model of architecture.
+\newblock {\em IEEE software}, 12(6):42--50.
+
+\bibitem[Lankhorst, 2017]{Lankhorst2017}
+Lankhorst, M. (2017).
+\newblock {\em Enterprise architecture at work}.
+\newblock Springer.
+
+\bibitem[Martens et~al., 2010]{Martens2010}
+Martens, A., Koziolek, H., Becker, S., and Reussner, R. (2010).
+\newblock Automated evaluation of reference architectures: A case study.
+\newblock {\em Central European Journal of Computer Science}, 1(1):100--116.
+
+\bibitem[Nakagawa et~al., 2014]{Nakagawa2014}
+Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2014).
+\newblock A process to create reference architectures for software ecosystems.
+\newblock In {\em European Conference on Software Architecture}, pages 320--337. Springer.
+
+\bibitem[Runeson and H{\"o}st, 2009]{Runeson2009}
+Runeson, P. and H{\"o}st, M. (2009).
+\newblock Guidelines for conducting and reporting case study research in software engineering.
+\newblock {\em Empirical software engineering}, 14(2):131.
+
+\end{thebibliography}
