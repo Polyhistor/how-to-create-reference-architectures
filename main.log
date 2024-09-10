@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  5 SEP 2024 10:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  10 SEP 2024 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,55 +289,101 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (8.77985pt too wide) in paragraph at lines 26--26
-[]\OT1/cmr/bx/n/17.28 Current State of Ref-er-ence Ar-chi-tec-ture De-
+Overfull \hbox (10.8055pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/10.95 val-i-dat-ing, and evolv-ing ref-er-ence ar-chi-tec-tures. We ad-dress key method-
  []
+
+
+Package natbib Warning: Citation `Angelov2012' on page 1 undefined on input line 24.
 
 
 Package natbib Warning: Citation `Galster2011' on page 1 undefined on input line 28.
 
+
+Package natbib Warning: Citation `Nakagawa2014' on page 1 undefined on input line 28.
+
+
+Package natbib Warning: Citation `Hevner2004' on page 1 undefined on input line 35.
+
+
+Package natbib Warning: Citation `ISO29148' on page 1 undefined on input line 39.
+
+
+Package natbib Warning: Citation `Chen2013' on page 1 undefined on input line 39.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.75957pt too wide) in paragraph at lines 37--37
+
+Package natbib Warning: Citation `Gregor2013' on page 2 undefined on input line 46.
+
+
+Package natbib Warning: Citation `Kitchenham2007' on page 2 undefined on input line 49.
+
+
+Package natbib Warning: Citation `Garousi2019' on page 2 undefined on input line 49.
+
+
+Package natbib Warning: Citation `Bogner2009' on page 2 undefined on input line 49.
+
+
+Package natbib Warning: Citation `Dubois2014' on page 2 undefined on input line 52.
+
+
+Overfull \hbox (0.75957pt too wide) in paragraph at lines 54--54
 []\OT1/cmr/bx/n/14.4 Translating The-o-ries into Ar-chi-tec-tural Con-structs 
  []
 
 
-Overfull \hbox (15.35622pt too wide) in paragraph at lines 49--49
-[]\OT1/cmr/bx/n/14.4 Absence of Im-ple-men-ta-tion Method-ol-ogy and Guide-
- []
+Package natbib Warning: Citation `Galster2014' on page 2 undefined on input line 56.
+
+
+Package natbib Warning: Citation `ISO42010' on page 2 undefined on input line 60.
+
+
+Package natbib Warning: Citation `Lankhorst2017' on page 2 undefined on input line 60.
+
+
+Package natbib Warning: Citation `Kruchten1995' on page 2 undefined on input line 64.
+
+
+Package natbib Warning: Citation `Runeson2009' on page 2 undefined on input line 68.
+
+
+Package natbib Warning: Citation `Beecham2005' on page 2 undefined on input line 68.
+
+
+Package natbib Warning: Citation `Martens2010' on page 2 undefined on input line 68.
 
 [2]
-Overfull \hbox (0.16122pt too wide) in paragraph at lines 77--78
-\OT1/cmr/m/n/12 The pro-posed frame-work ad-dresses sev-eral key lim-i-ta-tions of ex-ist-ing method-
- []
+
+Package natbib Warning: Citation `Eixelsberger1998' on page 3 undefined on input line 76.
 
 No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[3] [4] (./main.aux)
+[3] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 576862995284A30B6EF702DE86E8C9DC;3380.
+(rerunfilecheck)             Checksum: 41A80E460FA5D596D23E2EB7B8260887;2966.
  ) 
 Here is how much of TeX's memory you used:
- 9931 strings out of 476076
- 148335 string characters out of 5793775
- 1932187 words of memory out of 5000000
- 31916 multiletter control sequences out of 15000+600000
+ 9937 strings out of 476076
+ 148369 string characters out of 5793775
+ 1933187 words of memory out of 5000000
+ 31920 multiletter control sequences out of 15000+600000
  563093 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,1098b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,484b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (4 pages, 80763 bytes).
+Output written on main.pdf (3 pages, 82262 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 

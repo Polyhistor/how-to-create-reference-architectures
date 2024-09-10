@@ -7,8 +7,8 @@
 \usepackage{hyperref}
 \usepackage{natbib}
 
-\title{How to Create a Reference Architecture: Addressing Methodological Gaps and Challenges}
-\author{Pouya Ataei}
+\title{A Comprehensive Methodology for Creating and Evolving Reference Architectures}
+\author{[Author Name]}
 \date{}
 
 \begin{document}
@@ -16,69 +16,76 @@
 \maketitle
 
 \begin{abstract}
-This paper addresses the methodological gaps in creating reference architectures, focusing on the challenges of developing kernel and design theories, translating these theories into architectural constructs, and evaluating the resulting architectures. We propose a comprehensive framework to guide researchers and practitioners through the process of reference architecture creation, addressing key limitations in current approaches.
+This paper presents a comprehensive methodology for creating, validating, and evolving reference architectures. We address key methodological gaps in the current literature and propose a structured approach that encompasses problem delineation, requirements specification, theory development, architectural design, validation, evaluation, implementation guidelines, and evolution strategies.
 \end{abstract}
 
 \section{Introduction}
 \label{sec:introduction}
-Reference architectures play a crucial role in guiding the development of complex systems...
+Reference architectures play a crucial role in guiding the development of complex systems across various domains \citep{Angelov2012}. However, methodological gaps persist in their creation and evolution...
 
-\section{Current State of Reference Architecture Development}
-\label{sec:current-state}
-Existing methodologies for creating reference architectures, such as Galster and Avgeriou's empirically-grounded approach \citep{Galster2011}, provide valuable insights but have several limitations...
+\section{Related Work}
+\label{sec:related-work}
+Existing methodologies for creating reference architectures, such as Galster and Avgeriou's empirically-grounded approach \citep{Galster2011} and Nakagawa's process-based method \citep{Nakagawa2014}, provide valuable insights but have limitations...
 
-\section{Challenges in Reference Architecture Creation}
-\label{sec:challenges}
+\section{Research Methodology}
+\label{sec:methodology}
 
-\subsection{Developing Kernel and Design Theories}
-\label{subsec:theories}
-One of the primary challenges in creating reference architectures is the development of robust kernel and design theories...
+\subsection{Problem Delineation}
+\label{subsec:problem}
+The first step in our methodology is a clear delineation of the problem and justification for the reference architecture. This aligns with the problem relevance principle in Design Science Research (DSR) \citep{Hevner2004}...
+
+\subsection{Requirements Specification}
+\label{subsec:requirements}
+We adopt ISO/IEC/IEEE 29148:2018 \citep{ISO29148} for requirements specification, focusing on Architecturally Significant Requirements (ASRs) \citep{Chen2013}. ASRs are particularly relevant for reference architectures as they...
+
+\section{Artefact Design}
+\label{sec:design}
+
+\subsection{Theory Development}
+\label{subsec:theory}
+We propose a two-step theory development process, drawing on DSR principles \citep{Gregor2013}:
+
+\subsubsection{Data Collection and Insight Gathering}
+This phase involves systematic literature reviews \citep{Kitchenham2007}, multivocal literature reviews \citep{Garousi2019}, and expert interviews \citep{Bogner2009}. We propose a novel taxonomic approach for categorizing findings...
+
+\subsubsection{Theory Formulation}
+Using abductive inference \citep{Dubois2014}, we develop kernel theories and design theories. This process is iterative and...
 
 \subsection{Translating Theories into Architectural Constructs}
 \label{subsec:translation}
-Once theories are developed, translating them into concrete architectural elements presents its own set of challenges...
+We propose a rigorous method for translating theories into architectural components, incorporating variability management techniques \citep{Galster2014}...
 
-\subsection{Evaluation Difficulties}
-\label{subsec:evaluation}
-Existing methods for evaluating reference architectures often fall short in assessing both theoretical validity and practical applicability...
+\subsection{Architectural Representation}
+\label{subsec:representation}
+We advocate for the use of ISO/IEC/IEEE 42010:2011 \citep{ISO42010} and ArchiMate \citep{Lankhorst2017} for standardized architectural representation. This choice is justified by...
 
-\subsection{Lack of Standardization in Presentation}
-\label{subsec:standardization}
-Another significant challenge in the field of reference architecture creation is the lack of standardization in how these architectures are presented and documented. This inconsistency makes it difficult for stakeholders to compare, evaluate, and implement different reference architectures effectively. The absence of a unified presentation format can lead to misinterpretations, hinder knowledge transfer, and impede the widespread adoption of reference architectures across various domains. Furthermore, this lack of standardization complicates the process of validating and refining existing architectures, as well as integrating insights from multiple sources to create more comprehensive and robust reference models.
+\subsection{Component Explanation and Views}
+\label{subsec:views}
+We propose a comprehensive set of views including structural, behavioral, and deployment models \citep{Kruchten1995}. Each component should be explained in terms of...
 
-\subsection{Absence of Implementation Methodology and Guidelines}
-\label{subsec:implementation-guidelines}
-A critical gap in the field of reference architecture creation is the absence of a comprehensive methodology and clear guidelines for implementation. While reference architectures provide high-level blueprints, practitioners often struggle to translate these abstract models into concrete, functional systems. This lack of implementation guidance can lead to inconsistent interpretations, suboptimal design decisions, and difficulties in realizing the full potential of the reference architecture. Moreover, without standardized implementation methodologies, organizations face challenges in adapting the reference architecture to their specific contexts, scaling it across different projects, and maintaining consistency in its application. This gap not only hampers the practical utility of reference architectures but also creates a disconnect between theoretical models and real-world implementations, potentially undermining the credibility and adoption of reference architectures in various domains.
+\section{Validation and Evaluation}
+\label{sec:validation}
+We propose a multi-method approach to validation and evaluation, including case studies \citep{Runeson2009}, expert evaluations \citep{Beecham2005}, and simulation \citep{Martens2010}...
 
+\section{Implementation Guidelines}
+\label{sec:implementation}
+To bridge the gap between abstract architecture and concrete implementation, we propose...
 
+\section{Evolution Strategies}
+\label{sec:evolution}
+Reference architectures must evolve to remain relevant. We propose strategies for continuous refinement and adaptation \citep{Eixelsberger1998}...
 
-\subsection{Theory Development Phase}
-\label{subsec:theory-dev}
-Our proposed framework begins with a systematic approach to theory development...
-
-\subsection{Architectural Construction Phase}
-\label{subsec:arch-construction}
-The next phase involves a methodical translation of theories into architectural components...
-
-\subsection{Iterative Refinement Process}
-\label{subsec:refinement}
-To ensure the ongoing relevance and effectiveness of the reference architecture, we propose an iterative refinement process...
-
-\subsection{Comprehensive Evaluation Framework}
-\label{subsec:eval-framework}
-Our framework includes a multi-faceted approach to evaluation...
-
-\section{Case Study: Application of the Proposed Framework}
-\label{sec:case-study}
-To demonstrate the application of our proposed framework, we present a case study based on the development of the Metamycelium reference architecture...
+\section{Threats to Validity}
+\label{sec:threats}
+We acknowledge potential threats to validity in our methodology, including...
 
 \section{Discussion}
 \label{sec:discussion}
-The proposed framework addresses several key limitations of existing methodologies...
+Our proposed methodology addresses several key limitations of existing approaches...
 
 \section{Conclusion}
 \label{sec:conclusion}
-This paper has presented a comprehensive framework for creating reference architectures...
+This paper has presented a comprehensive methodology for creating, validating, and evolving reference architectures...
 
 \bibliographystyle{apalike}
 \bibliography{references}
