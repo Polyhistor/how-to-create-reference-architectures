@@ -1,0 +1,38 @@
+@startuml
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+
+title Comprehensive Methodology for Creating and Evolving Reference Architectures
+
+rectangle "1. Problem Delineation" as PD #LightBlue
+rectangle "2. Data Collection and Insight Gathering" as DCIG #LightGreen
+rectangle "3. Requirements Specification" as RS #LightYellow
+rectangle "4. Theory Formulation" as TF #LightPink
+rectangle "5. Translating Theories into Architectural Constructs" as TTAC #LightCyan
+rectangle "6. Architectural Representation" as AR #LightGray
+rectangle "7. Component Explanation and Views" as CEV #LightSalmon
+rectangle "8. Validation and Evaluation" as VE #Lavender
+rectangle "9. Implementation Guidelines" as IG #PaleGreen
+rectangle "10. Evolution Strategies" as ES #Wheat
+
+PD -down-> DCIG
+DCIG -down-> RS
+RS -down-> TF
+TF -down-> TTAC
+TTAC -down-> AR
+AR -down-> CEV
+CEV -down-> VE
+VE -down-> IG
+IG -down-> ES
+
+note right of PD : Define scope and justification
+note right of DCIG : Acquire and synthesize domain knowledge
+note right of RS : Elicit Architecturally Significant Requirements
+note right of TF : Establish theoretical foundations
+note right of TTAC : Map theories to architectural elements
+note right of AR : Document using standard notations
+note right of CEV : Describe components and create views
+note right of VE : Assess quality and applicability
+note right of IG : Provide adoption guidance
+note right of ES : Ensure long-term relevance and adaptability
+@enduml

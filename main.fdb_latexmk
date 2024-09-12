@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1726112463.65257 "main.aux" "main.bbl" "main" 1726112464.13004 0
+["bibtex main"] 1726112870.34486 "main.aux" "main.bbl" "main" 1726112870.82399 0
   "./references.bib" 1726108232.86968 5859 5cc3f82e5ec9d4bb9112aa30f67d5c91 ""
   "/usr/share/texmf-dist/bibtex/bst/base/apalike.bst" 1716849630 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "main.aux" 1726112464.01804 6490 bd83d0d874e8f97e7685c7664a642a3f "pdflatex"
+  "main.aux" 1726112870.6973 6490 6fab770744c7ff288145f18f427b2022 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1726112463.70431 "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" "main.pdf" "main" 1726112464.13017 0
-  "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" 1726112463.02136 25871 77535eaab203f6bb7939004fb5babb88 ""
+["pdflatex"] 1726112870.39223 "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" "main.pdf" "main" 1726112870.82411 0
+  "/home/pouya/Desktop/Projects/howToCreateReferenceArchitectures/main.tex" 1726112869.71395 25939 48cd79166d308dd7bdc4f87914f803e7 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1716849630 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1716849630 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -83,10 +83,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1721708801.69241 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1721708730 7112993 300a4eedd78ec8eddb1d5d082e4b8a62 ""
-  "main.aux" 1726112464.01804 6490 bd83d0d874e8f97e7685c7664a642a3f "pdflatex"
-  "main.bbl" 1726112463.70137 5052 ae4461249a5365ead674b431be0b3249 "bibtex main"
-  "main.out" 1726112464.01804 2433 dd980084242280724542ff8905ed233a "pdflatex"
-  "main.tex" 1726112463.02136 25871 77535eaab203f6bb7939004fb5babb88 ""
+  "assets/methodologyPhases.png" 1726112778.01594 95634 b2eedbdf266f2190b6beb692234ed695 ""
+  "main.aux" 1726112870.6973 6490 6fab770744c7ff288145f18f427b2022 "pdflatex"
+  "main.bbl" 1726112870.38729 5052 ae4461249a5365ead674b431be0b3249 "bibtex main"
+  "main.out" 1726112870.6973 2433 dd980084242280724542ff8905ed233a "pdflatex"
+  "main.tex" 1726112869.71395 25939 48cd79166d308dd7bdc4f87914f803e7 ""
   (generated)
   "main.aux"
   "main.log"
