@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  10 SEP 2024 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  12 SEP 2024 15:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,38 +289,384 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (10.8055pt too wide) in paragraph at lines 19--20
-\OT1/cmr/m/n/10.95 val-i-dat-ing, and evolv-ing ref-er-ence ar-chi-tec-tures. We ad-dress key method-
- []
+
+Package natbib Warning: Citation `Nakagawa2023' on page 1 undefined on input line 22.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 1 undefined on input line 29.
+
+
+Package natbib Warning: Citation `Kitchenham2004' on page 1 undefined on input line 37.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.75957pt too wide) in paragraph at lines 54--54
-[]\OT1/cmr/bx/n/14.4 Translating The-o-ries into Ar-chi-tec-tural Con-structs 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+Package natbib Warning: Citation `Freeman2010' on page 2 undefined on input line 39.
+
+
+Overfull \hbox (0.21402pt too wide) in paragraph at lines 51--52
+[]\OT1/cmr/m/n/12 Alignment with De-sign Sci-ence Re-search prin-ci-ples ([]Hevner et al.[], []2004[]) 
  []
 
-[2] (./main.bbl [3] [4]) [5] (./main.aux)
+
+Package natbib Warning: Citation `Nakagawa2023' on page 2 undefined on input line 52.
+
+
+Overfull \hbox (1.58351pt too wide) in paragraph at lines 61--62
+[]\OT1/cmr/m/n/12 Systematic Lit-er-a-ture Re-view (SLR) of aca-demic sources ([]Kitchen-
+ []
+
+
+Package natbib Warning: Citation `Dalkey1963' on page 2 undefined on input line 64.
+
+
+Package natbib Warning: Citation `Sharp2016' on page 2 undefined on input line 65.
+
+
+Package natbib Warning: Citation `Linaker2015' on page 2 undefined on input line 66.
+
+
+Package natbib Warning: Citation `Braun2006' on page 2 undefined on input line 70.
+
+
+Package natbib Warning: Citation `Stol2016' on page 2 undefined on input line 71.
+
+[2]
+
+Package natbib Warning: Citation `Yin2017' on page 3 undefined on input line 72.
+
+
+Package natbib Warning: Citation `Pohl2005' on page 3 undefined on input line 73.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 3 undefined on input line 84.
+
+
+Overfull \hbox (0.45714pt too wide) in paragraph at lines 96--97
+[]\OT1/cmr/m/n/12 Application of ISO/IEC/IEEE 29148:2018 stan-dard ([]In-ter-na-tional
+ []
+
+
+Package natbib Warning: Citation `Barbacci2003' on page 3 undefined on input line 97.
+
+
+Package natbib Warning: Citation `Bass2003' on page 3 undefined on input line 98.
+
+
+Package natbib Warning: Citation `Kazman2000' on page 3 undefined on input line 99.
+
+
+Package natbib Warning: Citation `Dalkey1963' on page 3 undefined on input line 100.
+
+[3]
+
+Package natbib Warning: Citation `Nakagawa2023' on page 4 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Mavin2009' on page 4 undefined on input line 112.
+
+
+Overfull \hbox (2.24588pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/12 Integration with model-based re-quire-ments en-gi-neer-ing ap-proaches
+ []
+
+
+Package natbib Warning: Citation `Glaser1967' on page 4 undefined on input line 124.
+
+
+Package natbib Warning: Citation `Noblit1988' on page 4 undefined on input line 125.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 4 undefined on input line 137.
+
+
+Package natbib Warning: Citation `Kallinikos2006' on page 4 undefined on input line 138.
+
+
+Package natbib Warning: Citation `Bertalanffy1968' on page 4 undefined on input line 139.
+
+[4]
+
+Package natbib Warning: Citation `Baxter2011' on page 5 undefined on input line 140.
+
+
+Overfull \hbox (12.43575pt too wide) in paragraph at lines 159--159
+[]\OT1/cmr/bx/n/17.28 Translating The-o-ries into Ar-chi-tec-tural Con-
+ []
+
+
+Package natbib Warning: Citation `Eden2006' on page 5 undefined on input line 164.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 5 undefined on input line 166.
+
+
+Package natbib Warning: Citation `Medvidovic2000' on page 5 undefined on input line 167.
+
+
+Package natbib Warning: Citation `Bass2003' on page 5 undefined on input line 168.
+
+[5] [6]
+
+Package natbib Warning: Citation `OMG2017' on page 7 undefined on input line 212.
+
+
+Package natbib Warning: Citation `Medvidovic2000' on page 7 undefined on input line 213.
+
+
+Package natbib Warning: Citation `Feiler2012' on page 7 undefined on input line 214.
+
+
+Package natbib Warning: Citation `Estefan2007' on page 7 undefined on input line 215.
+
+
+Package natbib Warning: Citation `Rozanski2012' on page 7 undefined on input line 219.
+
+
+Package natbib Warning: Citation `Tyree2005' on page 7 undefined on input line 223.
+
+
+Overfull \hbox (2.77226pt too wide) in paragraph at lines 228--229
+[]\OT1/cmr/m/n/12 Structural views (e.g., com-po-nent di-a-grams, de-ploy-ment di-a-grams) 
+ []
+
+[7]
+
+Package natbib Warning: Citation `Maier2009' on page 8 undefined on input line 246.
+
+
+Package natbib Warning: Citation `Schmidt2006' on page 8 undefined on input line 251.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 8 undefined on input line 252.
+
+
+Package natbib Warning: Citation `Clements2010' on page 8 undefined on input line 262.
+
+
+Package natbib Warning: Citation `Finkelstein1992' on page 8 undefined on input line 263.
+
+
+Package natbib Warning: Citation `Adolphs2015' on page 8 undefined on input line 265.
+
+[8]
+
+Package natbib Warning: Citation `Rozanski2012' on page 9 undefined on input line 274.
+
+
+Package natbib Warning: Citation `Rozanski2012' on page 9 undefined on input line 275.
+
+
+Package natbib Warning: Citation `Tyree2005' on page 9 undefined on input line 284.
+
+
+Package natbib Warning: Citation `Mader2009' on page 9 undefined on input line 288.
+
+
+Package natbib Warning: Citation `Egyed2007' on page 9 undefined on input line 289.
+
+
+Package natbib Warning: Citation `Fradet2008' on page 9 undefined on input line 290.
+
+
+Package natbib Warning: Citation `Rozanski2012' on page 9 undefined on input line 302.
+
+
+Package natbib Warning: Citation `Schmidt2006' on page 9 undefined on input line 305.
+
+
+Package natbib Warning: Citation `Farenhorst2007' on page 9 undefined on input line 306.
+
+[9]
+
+Package natbib Warning: Citation `Kazman2000' on page 10 undefined on input line 307.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 10 undefined on input line 308.
+
+
+Package natbib Warning: Citation `Kazman2000' on page 10 undefined on input line 320.
+
+
+Package natbib Warning: Citation `Dobrica2002' on page 10 undefined on input line 321.
+
+
+Package natbib Warning: Citation `Gorton2006' on page 10 undefined on input line 322.
+
+
+Package natbib Warning: Citation `Baier2008' on page 10 undefined on input line 323.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 10 undefined on input line 332.
+
+[10]
+
+Package natbib Warning: Citation `Nakagawa2023' on page 11 undefined on input line 359.
+
+
+Package natbib Warning: Citation `Bass2003' on page 11 undefined on input line 360.
+
+[11]
+
+Package natbib Warning: Citation `Buschmann2007' on page 12 undefined on input line 372.
+
+
+Package natbib Warning: Citation `Schmidt2006' on page 12 undefined on input line 373.
+
+
+Package natbib Warning: Citation `Hanschke2010' on page 12 undefined on input line 377.
+
+
+Package natbib Warning: Citation `Bredemeyer2002' on page 12 undefined on input line 378.
+
+
+Package natbib Warning: Citation `Zimmermann2015' on page 12 undefined on input line 379.
+
+
+Package natbib Warning: Citation `Ross2006' on page 12 undefined on input line 385.
+
+
+Package natbib Warning: Citation `Bass2003' on page 12 undefined on input line 387.
+
+
+Package natbib Warning: Citation `Chung2012' on page 12 undefined on input line 388.
+
+
+Package natbib Warning: Citation `Lange2016' on page 12 undefined on input line 389.
+
+
+Package natbib Warning: Citation `Zimmermann2015' on page 12 undefined on input line 401.
+
+
+Package natbib Warning: Citation `Kruchten2006' on page 12 undefined on input line 402.
+
+
+Package natbib Warning: Citation `Clements2010' on page 12 undefined on input line 403.
+
+[12]
+
+Package natbib Warning: Citation `Madison2010' on page 13 undefined on input line 409.
+
+
+Package natbib Warning: Citation `Bass2015' on page 13 undefined on input line 410.
+
+
+Package natbib Warning: Citation `Newman2015' on page 13 undefined on input line 411.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 13 undefined on input line 412.
+
+
+Overfull \hbox (8.025pt too wide) in paragraph at lines 421--422
+[]\OT1/cmr/m/n/12 Continuous re-fine-ment tech-niques and adap-ta-tion mech-a-nisms ([]Eix-
+ []
+
+
+Package natbib Warning: Citation `Garlan2009' on page 13 undefined on input line 422.
+
+
+Package natbib Warning: Citation `Lehnert2013' on page 13 undefined on input line 423.
+
+
+Package natbib Warning: Citation `Estublier2005' on page 13 undefined on input line 424.
+
+
+Package natbib Warning: Citation `Farenhorst2007' on page 13 undefined on input line 425.
+
+
+Package natbib Warning: Citation `Kazman2000' on page 13 undefined on input line 429.
+
+
+Package natbib Warning: Citation `Perry1992' on page 13 undefined on input line 430.
+
+
+Package natbib Warning: Citation `Bosch2004' on page 13 undefined on input line 431.
+
+
+Package natbib Warning: Citation `Mens2008' on page 13 undefined on input line 432.
+
+
+Package natbib Warning: Citation `Jansen2009' on page 13 undefined on input line 433.
+
+
+Package natbib Warning: Citation `Ozkaya2008' on page 13 undefined on input line 437.
+
+
+Package natbib Warning: Citation `Kruchten2012' on page 13 undefined on input line 438.
+
+
+Package natbib Warning: Citation `Garlan2009' on page 13 undefined on input line 439.
+
+[13]
+
+Package natbib Warning: Citation `Nakagawa2023' on page 14 undefined on input line 440.
+
+
+Package natbib Warning: Citation `Cleland-Huang2012' on page 14 undefined on input line 441.
+
+
+Package natbib Warning: Citation `Baldwin2000' on page 14 undefined on input line 445.
+
+
+Package natbib Warning: Citation `Buschmann2007' on page 14 undefined on input line 447.
+
+
+Package natbib Warning: Citation `Newman2015' on page 14 undefined on input line 448.
+
+
+Package natbib Warning: Citation `Hodgson2017' on page 14 undefined on input line 449.
+
+
+Package natbib Warning: Citation `Kruchten2006' on page 14 undefined on input line 461.
+
+
+Package natbib Warning: Citation `Bosch2004' on page 14 undefined on input line 462.
+
+
+Package natbib Warning: Citation `Garlan2009' on page 14 undefined on input line 463.
+
+
+Package natbib Warning: Citation `Zimmermann2015' on page 14 undefined on input line 464.
+
+
+Package natbib Warning: Citation `Farenhorst2007' on page 14 undefined on input line 465.
+
+[14]
+
+Package natbib Warning: Citation `Nakagawa2023' on page 15 undefined on input line 473.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 15 undefined on input line 480.
+
+
+Package natbib Warning: Citation `Nakagawa2023' on page 15 undefined on input line 487.
+
+(./main.bbl [15] [16])
+
+Package natbib Warning: There were undefined citations.
+
+[17] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 41A80E460FA5D596D23E2EB7B8260887;2966.
+(rerunfilecheck)             Checksum: DD980084242280724542FF8905ED233A;2433.
  ) 
 Here is how much of TeX's memory you used:
- 10026 strings out of 476076
- 149928 string characters out of 5793775
+ 10027 strings out of 476076
+ 149811 string characters out of 5793775
  1935187 words of memory out of 5000000
- 31983 multiletter control sequences out of 15000+600000
- 563440 words of font info for 56 fonts, out of 8000000 for 9000
+ 31972 multiletter control sequences out of 15000+600000
+ 562862 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,484b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (5 pages, 107518 bytes).
+ 75i,6n,79p,407b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (17 pages, 108872 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 182 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 290 PDF objects out of 1000 (max. 8388607)
+ 258 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

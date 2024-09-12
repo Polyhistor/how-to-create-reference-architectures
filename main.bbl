@@ -82,6 +82,11 @@ Martens, A., Koziolek, H., Becker, S., and Reussner, R. (2010).
 \newblock Automated evaluation of reference architectures: A case study.
 \newblock {\em Central European Journal of Computer Science}, 1(1):100--116.
 
+\bibitem[Mart{\'\i}nez-Fern{\'a}ndez et~al., 2013]{Martínez-Fernández2013}
+Mart{\'\i}nez-Fern{\'a}ndez, S., Ayala, C.~P., Franch, X., and Marques, H.~M. (2013).
+\newblock Applying and evaluating reference architectures in a software factory.
+\newblock {\em International Journal of Software Engineering and Knowledge Engineering}, 23(09):1267--1297.
+
 \bibitem[Nakagawa et~al., 2014]{Nakagawa2014}
 Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2014).
 \newblock A process to create reference architectures for software ecosystems.
@@ -91,5 +96,10 @@ Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2014).
 Runeson, P. and H{\"o}st, M. (2009).
 \newblock Guidelines for conducting and reporting case study research in software engineering.
 \newblock {\em Empirical software engineering}, 14(2):131.
+
+\bibitem[Wohlin et~al., 2012]{Wohlin2012}
+Wohlin, C., Runeson, P., H{\"o}st, M., Ohlsson, M.~C., Regnell, B., and Wessl{\'e}n, A. (2012).
+\newblock {\em Experimentation in software engineering}.
+\newblock Springer Science \& Business Media.
 
 \end{thebibliography}
