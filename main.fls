@@ -141,6 +141,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./assets/methodologyPhases.png
@@ -148,7 +149,6 @@ INPUT ./assets/methodologyPhases.png
 INPUT ./assets/methodologyPhases.png
 INPUT ./assets/methodologyPhases.png
 INPUT ./assets/methodologyPhases.png
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./main.bbl
 INPUT ./main.bbl

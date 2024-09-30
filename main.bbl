@@ -1,9 +1,29 @@
 \begin{thebibliography}{}
 
-\bibitem[Angelov et~al., 2012]{Angelov2012}
-Angelov, S., Grefen, P., and Greefhorst, D. (2012).
+\bibitem[Angelov et~al., 2012a]{angelov2012framework}
+Angelov, S., Grefen, P., and Greefhorst, D. (2012a).
 \newblock A framework for analysis and design of software reference architectures.
 \newblock {\em Information and Software Technology}, 54(4):417--431.
+
+\bibitem[Angelov et~al., 2012b]{Angelov2012}
+Angelov, S., Grefen, P., and Greefhorst, D. (2012b).
+\newblock A framework for analysis and design of software reference architectures.
+\newblock {\em Information and Software Technology}, 54(4):417--431.
+
+\bibitem[Angelov et~al., 2012c]{angelov2012designing}
+Angelov, S., Trienekens, J.~J., and Grefen, P. (2012c).
+\newblock Designing and applying an approach to software reference architecture evaluation.
+\newblock {\em Information and Software Technology}, 54(9):1012--1028.
+
+\bibitem[Antinyan, 2020]{antinyan2020revealing}
+Antinyan, V. (2020).
+\newblock Revealing the complexity of automotive software.
+\newblock In {\em Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering}, pages 1525--1528.
+
+\bibitem[Bass et~al., 2012]{bass2012software}
+Bass, L., Clements, P., and Kazman, R. (2012).
+\newblock {\em Software architecture in practice}.
+\newblock Addison-Wesley Professional.
 
 \bibitem[Beecham et~al., 2005]{Beecham2005}
 Beecham, S., Hall, T., and Rainer, A. (2005).
@@ -20,6 +40,16 @@ Chen, L., Ali~Babar, M., and Nuseibeh, B. (2013).
 \newblock Characterizing architecturally significant requirements.
 \newblock {\em IEEE software}, 30(2):38--45.
 
+\bibitem[Cloutier et~al., 2010]{cloutier2010concept}
+Cloutier, R., Muller, G., Verma, D., Nilchiani, R., Hole, E., and Bone, M. (2010).
+\newblock The concept of reference architectures.
+\newblock {\em Systems Engineering}, 13(1):14--27.
+
+\bibitem[Dobrica and Niemela, 2008]{dobrica2008approach}
+Dobrica, L. and Niemela, E. (2008).
+\newblock An approach to reference architecture design for different domains of embedded systems.
+\newblock In {\em 2008 International Conference on Software Engineering Research \& Practice}, pages 287--293.
+
 \bibitem[Dubois and Gadde, 2014]{Dubois2014}
 Dubois, A. and Gadde, L.-E. (2014).
 \newblock Abductive reasoning in logistics research.
@@ -35,10 +65,20 @@ Galster, M. and Avgeriou, P. (2011).
 \newblock Empirically-grounded reference architectures: a proposal.
 \newblock In {\em Proceedings of the joint ACM SIGSOFT conference--QoSA and ACM SIGSOFT symposium--ISARCS on Quality of software architectures--QoSA and architecting critical systems--ISARCS}, pages 153--158.
 
+\bibitem[Galster et~al., 2011]{galster2011empirically}
+Galster, M., Avgeriou, P., Weyns, D., and Mannisto, T. (2011).
+\newblock Empirically-grounded reference architectures: a proposal.
+\newblock In {\em Proceedings of the joint ACM SIGSOFT conference--QoSA and ACM SIGSOFT symposium--ISARCS on Quality of software architectures--QoSA and architecting critical systems--ISARCS}, pages 153--158.
+
 \bibitem[Galster et~al., 2014]{Galster2014}
 Galster, M., Weyns, D., Tofan, D., Michalik, B., and Avgeriou, P. (2014).
 \newblock Variability in software systems—a systematic literature review.
 \newblock {\em IEEE Transactions on Software Engineering}, 40(3):282--306.
+
+\bibitem[Garcia-Moreno et~al., 2020]{garciamoreno2020microservices}
+Garcia-Moreno, F.~M., Bermudez-Edo, M., Garrido, J.~L., Rodríguez-García, E., Pérez-Mármol, J.~M., and Rodríguez-Fórtiz, M.~J. (2020).
+\newblock A microservices e-health system for ecological frailty assessment using wearables.
+\newblock {\em Sensors}, 20(12):3427.
 
 \bibitem[Garousi et~al., 2019]{Garousi2019}
 Garousi, V., Felderer, M., and M{\"a}ntyl{\"a}, M.~V. (2019).
@@ -87,6 +127,16 @@ Mart{\'\i}nez-Fern{\'a}ndez, S., Ayala, C.~P., Franch, X., and Marques, H.~M. (2
 \newblock Applying and evaluating reference architectures in a software factory.
 \newblock {\em International Journal of Software Engineering and Knowledge Engineering}, 23(09):1267--1297.
 
+\bibitem[Muller and Laar, 2008]{muller2008right}
+Muller, G. and Laar, P. v.~d. (2008).
+\newblock Right sizing reference architectures-how to provide specific guidance with limited information.
+\newblock In {\em INCOSE International Symposium}, volume~18, pages 2047--2058. Wiley Online Library.
+
+\bibitem[Nakagawa et~al., 2011]{nakagawa2011aspect}
+Nakagawa, E.~Y., Ferrari, F.~C., Sasaki, M. M.~F., and Maldonado, J.~C. (2011).
+\newblock An aspect-oriented reference architecture for software engineering environments.
+\newblock {\em Journal of systems and software}, 84(10):1670--1684.
+
 \bibitem[Nakagawa et~al., 2014]{Nakagawa2014}
 Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2014).
 \newblock A process to create reference architectures for software ecosystems.
@@ -96,6 +146,11 @@ Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2014).
 Runeson, P. and H{\"o}st, M. (2009).
 \newblock Guidelines for conducting and reporting case study research in software engineering.
 \newblock {\em Empirical software engineering}, 14(2):131.
+
+\bibitem[Weyrich and Ebert, 2015]{weyrich2015reference}
+Weyrich, M. and Ebert, C. (2015).
+\newblock Reference architectures for the internet of things.
+\newblock {\em IEEE software}, 33(1):112--116.
 
 \bibitem[Wohlin et~al., 2012]{Wohlin2012}
 Wohlin, C., Runeson, P., H{\"o}st, M., Ohlsson, M.~C., Regnell, B., and Wessl{\'e}n, A. (2012).
