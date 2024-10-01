@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  1 OCT 2024 03:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  1 OCT 2024 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,362 +292,362 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package natbib Warning: Citation `Nakagawa2023' on page 2 undefined on input line 53.
+Package natbib Warning: Citation `Nakagawa2023' on page 2 undefined on input line 59.
 
-<assets/methodologyPhases.png, id=112, 710.655pt x 955.57pt>
+<assets/methodologyPhases.png, id=111, 710.655pt x 955.57pt>
 File: assets/methodologyPhases.png Graphic file (type png)
 <use assets/methodologyPhases.png>
-Package pdftex.def Info: assets/methodologyPhases.png  used on input line 56.
+Package pdftex.def Info: assets/methodologyPhases.png  used on input line 62.
 (pdftex.def)             Requested size: 390.0pt x 524.41324pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 56--57
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 62--63
 [][] 
  []
 
 [2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3 <./assets/methodologyPhases.png (PNG copy)>]
 
-Package natbib Warning: Citation `Kitchenham2004' on page 4 undefined on input line 63.
+Package natbib Warning: Citation `Kitchenham2004' on page 4 undefined on input line 69.
 
 
-Package natbib Warning: Citation `Freeman2010' on page 4 undefined on input line 65.
+Package natbib Warning: Citation `Freeman2010' on page 4 undefined on input line 71.
 
 
-Overfull \hbox (0.21402pt too wide) in paragraph at lines 77--78
+Overfull \hbox (0.21402pt too wide) in paragraph at lines 83--84
 []\OT1/cmr/m/n/12 Alignment with De-sign Sci-ence Re-search prin-ci-ples ([]Hevner et al.[], []2004[]) 
  []
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 4 undefined on input line 78.
+Package natbib Warning: Citation `Nakagawa2023' on page 4 undefined on input line 84.
 
 
-Overfull \hbox (1.58351pt too wide) in paragraph at lines 87--88
+Overfull \hbox (1.58351pt too wide) in paragraph at lines 93--94
 []\OT1/cmr/m/n/12 Systematic Lit-er-a-ture Re-view (SLR) of aca-demic sources ([]Kitchen-
  []
 
 
-Package natbib Warning: Citation `Dalkey1963' on page 4 undefined on input line 90.
+Package natbib Warning: Citation `Dalkey1963' on page 4 undefined on input line 96.
 
 [4]
 
-Package natbib Warning: Citation `Sharp2016' on page 5 undefined on input line 91.
+Package natbib Warning: Citation `Sharp2016' on page 5 undefined on input line 97.
 
 
-Package natbib Warning: Citation `Linaker2015' on page 5 undefined on input line 92.
+Package natbib Warning: Citation `Linaker2015' on page 5 undefined on input line 98.
 
 
-Package natbib Warning: Citation `Braun2006' on page 5 undefined on input line 96.
+Package natbib Warning: Citation `Braun2006' on page 5 undefined on input line 102.
 
 
-Package natbib Warning: Citation `Stol2016' on page 5 undefined on input line 97.
+Package natbib Warning: Citation `Stol2016' on page 5 undefined on input line 103.
 
 
-Package natbib Warning: Citation `Yin2017' on page 5 undefined on input line 98.
+Package natbib Warning: Citation `Yin2017' on page 5 undefined on input line 104.
 
 
-Package natbib Warning: Citation `Pohl2005' on page 5 undefined on input line 99.
+Package natbib Warning: Citation `Pohl2005' on page 5 undefined on input line 105.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 5 undefined on input line 110.
+Package natbib Warning: Citation `Nakagawa2023' on page 5 undefined on input line 116.
 
 
-Overfull \hbox (0.45714pt too wide) in paragraph at lines 122--123
+Overfull \hbox (0.45714pt too wide) in paragraph at lines 128--129
 []\OT1/cmr/m/n/12 Application of ISO/IEC/IEEE 29148:2018 stan-dard ([]In-ter-na-tional
  []
 
 
-Package natbib Warning: Citation `Barbacci2003' on page 5 undefined on input line 123.
+Package natbib Warning: Citation `Barbacci2003' on page 5 undefined on input line 129.
 
 
-Package natbib Warning: Citation `Bass2003' on page 5 undefined on input line 124.
+Package natbib Warning: Citation `Bass2003' on page 5 undefined on input line 130.
 
 
-Package natbib Warning: Citation `Kazman2000' on page 5 undefined on input line 125.
+Package natbib Warning: Citation `Kazman2000' on page 5 undefined on input line 131.
 
 [5]
 
-Package natbib Warning: Citation `Dalkey1963' on page 6 undefined on input line 126.
+Package natbib Warning: Citation `Dalkey1963' on page 6 undefined on input line 132.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 6 undefined on input line 136.
+Package natbib Warning: Citation `Nakagawa2023' on page 6 undefined on input line 142.
 
 
-Package natbib Warning: Citation `Mavin2009' on page 6 undefined on input line 138.
+Package natbib Warning: Citation `Mavin2009' on page 6 undefined on input line 144.
 
 
-Overfull \hbox (2.24588pt too wide) in paragraph at lines 138--139
+Overfull \hbox (2.24588pt too wide) in paragraph at lines 144--145
 []\OT1/cmr/m/n/12 Integration with model-based re-quire-ments en-gi-neer-ing ap-proaches
  []
 
 
-Package natbib Warning: Citation `Glaser1967' on page 6 undefined on input line 150.
+Package natbib Warning: Citation `Glaser1967' on page 6 undefined on input line 156.
 
 
-Package natbib Warning: Citation `Noblit1988' on page 6 undefined on input line 151.
+Package natbib Warning: Citation `Noblit1988' on page 6 undefined on input line 157.
 
 [6]
 
-Package natbib Warning: Citation `Nakagawa2023' on page 7 undefined on input line 163.
+Package natbib Warning: Citation `Nakagawa2023' on page 7 undefined on input line 169.
 
 
-Package natbib Warning: Citation `Kallinikos2006' on page 7 undefined on input line 164.
+Package natbib Warning: Citation `Kallinikos2006' on page 7 undefined on input line 170.
 
 
-Package natbib Warning: Citation `Bertalanffy1968' on page 7 undefined on input line 165.
+Package natbib Warning: Citation `Bertalanffy1968' on page 7 undefined on input line 171.
 
 
-Package natbib Warning: Citation `Baxter2011' on page 7 undefined on input line 166.
+Package natbib Warning: Citation `Baxter2011' on page 7 undefined on input line 172.
 
 
-Overfull \hbox (12.43575pt too wide) in paragraph at lines 185--185
+Overfull \hbox (12.43575pt too wide) in paragraph at lines 191--191
 []\OT1/cmr/bx/n/17.28 Translating The-o-ries into Ar-chi-tec-tural Con-
  []
 
 
-Package natbib Warning: Citation `Eden2006' on page 7 undefined on input line 190.
+Package natbib Warning: Citation `Eden2006' on page 7 undefined on input line 196.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 7 undefined on input line 192.
+Package natbib Warning: Citation `Nakagawa2023' on page 7 undefined on input line 198.
 
 
-Package natbib Warning: Citation `Medvidovic2000' on page 7 undefined on input line 193.
+Package natbib Warning: Citation `Medvidovic2000' on page 7 undefined on input line 199.
 
 
-Package natbib Warning: Citation `Bass2003' on page 7 undefined on input line 194.
+Package natbib Warning: Citation `Bass2003' on page 7 undefined on input line 200.
 
 [7] [8]
 
-Package natbib Warning: Citation `OMG2017' on page 9 undefined on input line 238.
+Package natbib Warning: Citation `OMG2017' on page 9 undefined on input line 244.
 
 
-Package natbib Warning: Citation `Medvidovic2000' on page 9 undefined on input line 239.
+Package natbib Warning: Citation `Medvidovic2000' on page 9 undefined on input line 245.
 
 
-Package natbib Warning: Citation `Feiler2012' on page 9 undefined on input line 240.
+Package natbib Warning: Citation `Feiler2012' on page 9 undefined on input line 246.
 
 
-Package natbib Warning: Citation `Estefan2007' on page 9 undefined on input line 241.
+Package natbib Warning: Citation `Estefan2007' on page 9 undefined on input line 247.
 
 
-Package natbib Warning: Citation `Rozanski2012' on page 9 undefined on input line 245.
+Package natbib Warning: Citation `Rozanski2012' on page 9 undefined on input line 251.
 
 
-Package natbib Warning: Citation `Tyree2005' on page 9 undefined on input line 249.
+Package natbib Warning: Citation `Tyree2005' on page 9 undefined on input line 255.
 
 
-Overfull \hbox (2.77226pt too wide) in paragraph at lines 254--255
+Overfull \hbox (2.77226pt too wide) in paragraph at lines 260--261
 []\OT1/cmr/m/n/12 Structural views (e.g., com-po-nent di-a-grams, de-ploy-ment di-a-grams) 
  []
 
 [9]
 
-Package natbib Warning: Citation `Maier2009' on page 10 undefined on input line 272.
+Package natbib Warning: Citation `Maier2009' on page 10 undefined on input line 278.
 
 
-Package natbib Warning: Citation `Schmidt2006' on page 10 undefined on input line 277.
+Package natbib Warning: Citation `Schmidt2006' on page 10 undefined on input line 283.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 10 undefined on input line 278.
+Package natbib Warning: Citation `Nakagawa2023' on page 10 undefined on input line 284.
 
 
-Package natbib Warning: Citation `Clements2010' on page 10 undefined on input line 288.
+Package natbib Warning: Citation `Clements2010' on page 10 undefined on input line 294.
 
 
-Package natbib Warning: Citation `Finkelstein1992' on page 10 undefined on input line 289.
+Package natbib Warning: Citation `Finkelstein1992' on page 10 undefined on input line 295.
 
 
-Package natbib Warning: Citation `Adolphs2015' on page 10 undefined on input line 291.
+Package natbib Warning: Citation `Adolphs2015' on page 10 undefined on input line 297.
 
 [10]
 
-Package natbib Warning: Citation `Rozanski2012' on page 11 undefined on input line 300.
+Package natbib Warning: Citation `Rozanski2012' on page 11 undefined on input line 306.
 
 
-Package natbib Warning: Citation `Rozanski2012' on page 11 undefined on input line 301.
+Package natbib Warning: Citation `Rozanski2012' on page 11 undefined on input line 307.
 
 
-Package natbib Warning: Citation `Tyree2005' on page 11 undefined on input line 310.
+Package natbib Warning: Citation `Tyree2005' on page 11 undefined on input line 316.
 
 
-Package natbib Warning: Citation `Mader2009' on page 11 undefined on input line 314.
+Package natbib Warning: Citation `Mader2009' on page 11 undefined on input line 320.
 
 
-Package natbib Warning: Citation `Egyed2007' on page 11 undefined on input line 315.
+Package natbib Warning: Citation `Egyed2007' on page 11 undefined on input line 321.
 
 
-Package natbib Warning: Citation `Fradet2008' on page 11 undefined on input line 316.
+Package natbib Warning: Citation `Fradet2008' on page 11 undefined on input line 322.
 
 
-Package natbib Warning: Citation `Rozanski2012' on page 11 undefined on input line 328.
+Package natbib Warning: Citation `Rozanski2012' on page 11 undefined on input line 334.
 
 
-Package natbib Warning: Citation `Schmidt2006' on page 11 undefined on input line 331.
+Package natbib Warning: Citation `Schmidt2006' on page 11 undefined on input line 337.
 
 
-Package natbib Warning: Citation `Farenhorst2007' on page 11 undefined on input line 332.
+Package natbib Warning: Citation `Farenhorst2007' on page 11 undefined on input line 338.
 
 [11]
 
-Package natbib Warning: Citation `Kazman2000' on page 12 undefined on input line 333.
+Package natbib Warning: Citation `Kazman2000' on page 12 undefined on input line 339.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 12 undefined on input line 334.
+Package natbib Warning: Citation `Nakagawa2023' on page 12 undefined on input line 340.
 
 
-Package natbib Warning: Citation `Kazman2000' on page 12 undefined on input line 346.
+Package natbib Warning: Citation `Kazman2000' on page 12 undefined on input line 352.
 
 
-Package natbib Warning: Citation `Dobrica2002' on page 12 undefined on input line 347.
+Package natbib Warning: Citation `Dobrica2002' on page 12 undefined on input line 353.
 
 
-Package natbib Warning: Citation `Gorton2006' on page 12 undefined on input line 348.
+Package natbib Warning: Citation `Gorton2006' on page 12 undefined on input line 354.
 
 
-Package natbib Warning: Citation `Baier2008' on page 12 undefined on input line 349.
+Package natbib Warning: Citation `Baier2008' on page 12 undefined on input line 355.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 12 undefined on input line 358.
+Package natbib Warning: Citation `Nakagawa2023' on page 12 undefined on input line 364.
 
 [12]
 
-Package natbib Warning: Citation `Nakagawa2023' on page 13 undefined on input line 385.
+Package natbib Warning: Citation `Nakagawa2023' on page 13 undefined on input line 391.
 
 
-Package natbib Warning: Citation `Bass2003' on page 13 undefined on input line 386.
+Package natbib Warning: Citation `Bass2003' on page 13 undefined on input line 392.
 
 [13]
 
-Package natbib Warning: Citation `Buschmann2007' on page 14 undefined on input line 398.
+Package natbib Warning: Citation `Buschmann2007' on page 14 undefined on input line 404.
 
 
-Package natbib Warning: Citation `Schmidt2006' on page 14 undefined on input line 399.
+Package natbib Warning: Citation `Schmidt2006' on page 14 undefined on input line 405.
 
 
-Package natbib Warning: Citation `Hanschke2010' on page 14 undefined on input line 403.
+Package natbib Warning: Citation `Hanschke2010' on page 14 undefined on input line 409.
 
 
-Package natbib Warning: Citation `Bredemeyer2002' on page 14 undefined on input line 404.
+Package natbib Warning: Citation `Bredemeyer2002' on page 14 undefined on input line 410.
 
 
-Package natbib Warning: Citation `Zimmermann2015' on page 14 undefined on input line 405.
+Package natbib Warning: Citation `Zimmermann2015' on page 14 undefined on input line 411.
 
 
-Package natbib Warning: Citation `Ross2006' on page 14 undefined on input line 411.
+Package natbib Warning: Citation `Ross2006' on page 14 undefined on input line 417.
 
 
-Package natbib Warning: Citation `Bass2003' on page 14 undefined on input line 413.
+Package natbib Warning: Citation `Bass2003' on page 14 undefined on input line 419.
 
 
-Package natbib Warning: Citation `Chung2012' on page 14 undefined on input line 414.
+Package natbib Warning: Citation `Chung2012' on page 14 undefined on input line 420.
 
 
-Package natbib Warning: Citation `Lange2016' on page 14 undefined on input line 415.
+Package natbib Warning: Citation `Lange2016' on page 14 undefined on input line 421.
 
 
-Package natbib Warning: Citation `Zimmermann2015' on page 14 undefined on input line 427.
+Package natbib Warning: Citation `Zimmermann2015' on page 14 undefined on input line 433.
 
 
-Package natbib Warning: Citation `Kruchten2006' on page 14 undefined on input line 428.
+Package natbib Warning: Citation `Kruchten2006' on page 14 undefined on input line 434.
 
 
-Package natbib Warning: Citation `Clements2010' on page 14 undefined on input line 429.
+Package natbib Warning: Citation `Clements2010' on page 14 undefined on input line 435.
 
 [14]
 
-Package natbib Warning: Citation `Madison2010' on page 15 undefined on input line 435.
+Package natbib Warning: Citation `Madison2010' on page 15 undefined on input line 441.
 
 
-Package natbib Warning: Citation `Bass2015' on page 15 undefined on input line 436.
+Package natbib Warning: Citation `Bass2015' on page 15 undefined on input line 442.
 
 
-Package natbib Warning: Citation `Newman2015' on page 15 undefined on input line 437.
+Package natbib Warning: Citation `Newman2015' on page 15 undefined on input line 443.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 15 undefined on input line 438.
+Package natbib Warning: Citation `Nakagawa2023' on page 15 undefined on input line 444.
 
 
-Overfull \hbox (8.025pt too wide) in paragraph at lines 447--448
+Overfull \hbox (8.025pt too wide) in paragraph at lines 453--454
 []\OT1/cmr/m/n/12 Continuous re-fine-ment tech-niques and adap-ta-tion mech-a-nisms ([]Eix-
  []
 
 
-Package natbib Warning: Citation `Garlan2009' on page 15 undefined on input line 448.
+Package natbib Warning: Citation `Garlan2009' on page 15 undefined on input line 454.
 
 
-Package natbib Warning: Citation `Lehnert2013' on page 15 undefined on input line 449.
+Package natbib Warning: Citation `Lehnert2013' on page 15 undefined on input line 455.
 
 
-Package natbib Warning: Citation `Estublier2005' on page 15 undefined on input line 450.
+Package natbib Warning: Citation `Estublier2005' on page 15 undefined on input line 456.
 
 
-Package natbib Warning: Citation `Farenhorst2007' on page 15 undefined on input line 451.
+Package natbib Warning: Citation `Farenhorst2007' on page 15 undefined on input line 457.
 
 
-Package natbib Warning: Citation `Kazman2000' on page 15 undefined on input line 455.
+Package natbib Warning: Citation `Kazman2000' on page 15 undefined on input line 461.
 
 
-Package natbib Warning: Citation `Perry1992' on page 15 undefined on input line 456.
+Package natbib Warning: Citation `Perry1992' on page 15 undefined on input line 462.
 
 
-Package natbib Warning: Citation `Bosch2004' on page 15 undefined on input line 457.
+Package natbib Warning: Citation `Bosch2004' on page 15 undefined on input line 463.
 
 
-Package natbib Warning: Citation `Mens2008' on page 15 undefined on input line 458.
+Package natbib Warning: Citation `Mens2008' on page 15 undefined on input line 464.
 
 
-Package natbib Warning: Citation `Jansen2009' on page 15 undefined on input line 459.
+Package natbib Warning: Citation `Jansen2009' on page 15 undefined on input line 465.
 
 
-Package natbib Warning: Citation `Ozkaya2008' on page 15 undefined on input line 463.
+Package natbib Warning: Citation `Ozkaya2008' on page 15 undefined on input line 469.
 
 
-Package natbib Warning: Citation `Kruchten2012' on page 15 undefined on input line 464.
+Package natbib Warning: Citation `Kruchten2012' on page 15 undefined on input line 470.
 
 
-Package natbib Warning: Citation `Garlan2009' on page 15 undefined on input line 465.
+Package natbib Warning: Citation `Garlan2009' on page 15 undefined on input line 471.
 
 [15]
 
-Package natbib Warning: Citation `Nakagawa2023' on page 16 undefined on input line 466.
+Package natbib Warning: Citation `Nakagawa2023' on page 16 undefined on input line 472.
 
 
-Package natbib Warning: Citation `Cleland-Huang2012' on page 16 undefined on input line 467.
+Package natbib Warning: Citation `Cleland-Huang2012' on page 16 undefined on input line 473.
 
 
-Package natbib Warning: Citation `Baldwin2000' on page 16 undefined on input line 471.
+Package natbib Warning: Citation `Baldwin2000' on page 16 undefined on input line 477.
 
 
-Package natbib Warning: Citation `Buschmann2007' on page 16 undefined on input line 473.
+Package natbib Warning: Citation `Buschmann2007' on page 16 undefined on input line 479.
 
 
-Package natbib Warning: Citation `Newman2015' on page 16 undefined on input line 474.
+Package natbib Warning: Citation `Newman2015' on page 16 undefined on input line 480.
 
 
-Package natbib Warning: Citation `Hodgson2017' on page 16 undefined on input line 475.
+Package natbib Warning: Citation `Hodgson2017' on page 16 undefined on input line 481.
 
 
-Package natbib Warning: Citation `Kruchten2006' on page 16 undefined on input line 487.
+Package natbib Warning: Citation `Kruchten2006' on page 16 undefined on input line 493.
 
 
-Package natbib Warning: Citation `Bosch2004' on page 16 undefined on input line 488.
+Package natbib Warning: Citation `Bosch2004' on page 16 undefined on input line 494.
 
 
-Package natbib Warning: Citation `Garlan2009' on page 16 undefined on input line 489.
+Package natbib Warning: Citation `Garlan2009' on page 16 undefined on input line 495.
 
 
-Package natbib Warning: Citation `Zimmermann2015' on page 16 undefined on input line 490.
+Package natbib Warning: Citation `Zimmermann2015' on page 16 undefined on input line 496.
 
 
-Package natbib Warning: Citation `Farenhorst2007' on page 16 undefined on input line 491.
+Package natbib Warning: Citation `Farenhorst2007' on page 16 undefined on input line 497.
 
 [16]
 
-Package natbib Warning: Citation `Nakagawa2023' on page 17 undefined on input line 499.
+Package natbib Warning: Citation `Nakagawa2023' on page 17 undefined on input line 505.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 17 undefined on input line 506.
+Package natbib Warning: Citation `Nakagawa2023' on page 17 undefined on input line 512.
 
 
-Package natbib Warning: Citation `Nakagawa2023' on page 17 undefined on input line 513.
+Package natbib Warning: Citation `Nakagawa2023' on page 17 undefined on input line 519.
 
 (./main.bbl [17] [18] [19])
 
@@ -663,17 +663,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10082 strings out of 476076
- 151279 string characters out of 5793775
+ 151295 string characters out of 5793775
  1937187 words of memory out of 5000000
  32013 multiletter control sequences out of 15000+600000
  562862 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,855b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,855b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (20 pages, 209561 bytes).
+Output written on main.pdf (20 pages, 210627 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 301 compressed objects within 4 object streams
+ 340 PDF objects out of 1000 (max. 8388607)
+ 303 compressed objects within 4 object streams
  69 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

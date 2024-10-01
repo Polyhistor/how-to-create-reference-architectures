@@ -45,11 +45,6 @@ Cloutier, R., Muller, G., Verma, D., Nilchiani, R., Hole, E., and Bone, M. (2010
 \newblock The concept of reference architectures.
 \newblock {\em Systems Engineering}, 13(1):14--27.
 
-\bibitem[Dobrica and Niemela, 2008]{dobrica2008approach}
-Dobrica, L. and Niemela, E. (2008).
-\newblock An approach to reference architecture design for different domains of embedded systems.
-\newblock In {\em 2008 International Conference on Software Engineering Research \& Practice}, pages 287--293.
-
 \bibitem[Dubois and Gadde, 2014]{Dubois2014}
 Dubois, A. and Gadde, L.-E. (2014).
 \newblock Abductive reasoning in logistics research.
@@ -84,6 +79,11 @@ Garcia-Moreno, F.~M., Bermudez-Edo, M., Garrido, J.~L., Rodríguez-García, E., 
 Garousi, V., Felderer, M., and M{\"a}ntyl{\"a}, M.~V. (2019).
 \newblock Guidelines for including grey literature and conducting multivocal literature reviews in software engineering.
 \newblock {\em Information and Software Technology}, 106:101--121.
+
+\bibitem[Graaf et~al., 2005]{graaf2005evaluating}
+Graaf, B., Van~Dijk, H., and Van~Deursen, A. (2005).
+\newblock Evaluating a software architecture for embedded systems.
+\newblock In {\em Ninth European Conference on Software Maintenance and Reengineering}, pages 354--363. IEEE.
 
 \bibitem[Gregor and Jones, 2013]{Gregor2013}
 Gregor, S. and Jones, D. (2013).
@@ -127,15 +127,15 @@ Mart{\'\i}nez-Fern{\'a}ndez, S., Ayala, C.~P., Franch, X., and Marques, H.~M. (2
 \newblock Applying and evaluating reference architectures in a software factory.
 \newblock {\em International Journal of Software Engineering and Knowledge Engineering}, 23(09):1267--1297.
 
-\bibitem[Muller and Laar, 2008]{muller2008right}
-Muller, G. and Laar, P. v.~d. (2008).
-\newblock Right sizing reference architectures-how to provide specific guidance with limited information.
-\newblock In {\em INCOSE International Symposium}, volume~18, pages 2047--2058. Wiley Online Library.
-
-\bibitem[Nakagawa et~al., 2011]{nakagawa2011aspect}
-Nakagawa, E.~Y., Ferrari, F.~C., Sasaki, M. M.~F., and Maldonado, J.~C. (2011).
+\bibitem[Nakagawa et~al., 2011a]{nakagawa2011aspect}
+Nakagawa, E.~Y., Ferrari, F.~C., Sasaki, M. M.~F., and Maldonado, J.~C. (2011a).
 \newblock An aspect-oriented reference architecture for software engineering environments.
 \newblock {\em Journal of systems and software}, 84(10):1670--1684.
+
+\bibitem[Nakagawa et~al., 2011b]{nakagawa2011ramodel}
+Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2011b).
+\newblock The state of the art and future perspectives in reference architectures.
+\newblock {\em 2011 Joint Working IEEE/IFIP Conference on Software Architecture and European Conference on Software Architecture}, pages 152--160.
 
 \bibitem[Nakagawa et~al., 2014]{Nakagawa2014}
 Nakagawa, E.~Y., Oquendo, F., and Becker, M. (2014).

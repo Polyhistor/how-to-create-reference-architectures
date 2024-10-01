@@ -67,46 +67,45 @@ Warning--I didn't find a database entry for "Hodgson2017"
 Warning--empty journal in ISO42010
 Warning--empty journal in ISO29148
 Warning--empty journal in Kitchenham2007
-Warning--can't use both volume and number fields in muller2008right
 You've used 32 entries,
             1935 wiz_defined-function locations,
-            794 strings with 10767 characters,
-and the built_in function-call counts, 13824 in all, are:
-= -- 1365
-> -- 566
-< -- 21
-+ -- 210
-- -- 190
-* -- 1173
-:= -- 2326
+            792 strings with 10827 characters,
+and the built_in function-call counts, 13793 in all, are:
+= -- 1359
+> -- 576
+< -- 18
++ -- 215
+- -- 194
+* -- 1172
+:= -- 2333
 add.period$ -- 95
 call.type$ -- 32
-change.case$ -- 251
-chr.to.int$ -- 30
-cite$ -- 36
-duplicate$ -- 533
-empty$ -- 966
+change.case$ -- 253
+chr.to.int$ -- 29
+cite$ -- 35
+duplicate$ -- 527
+empty$ -- 956
 format.name$ -- 238
-if$ -- 2735
-int.to.chr$ -- 3
+if$ -- 2720
+int.to.chr$ -- 4
 int.to.str$ -- 0
 missing$ -- 36
 newline$ -- 160
 num.names$ -- 96
-pop$ -- 246
+pop$ -- 248
 preamble$ -- 1
-purify$ -- 255
+purify$ -- 257
 quote$ -- 0
-skip$ -- 411
+skip$ -- 405
 stack$ -- 0
-substring$ -- 1033
-swap$ -- 96
-text.length$ -- 8
+substring$ -- 1025
+swap$ -- 92
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 184
-warning$ -- 4
+warning$ -- 3
 while$ -- 117
 width$ -- 0
-write$ -- 407
-(There were 65 warnings)
+write$ -- 406
+(There were 64 warnings)
